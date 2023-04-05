@@ -20,6 +20,19 @@ header img {
 footer {
     background:#AACE9B;
     text-align: center;
+    padding: 8px;
+}
+
+footer a {
+    padding: 10px;
+    margin-top: 20px;
+}
+
+footer p {
+    color: white;
+    padding-bottom: 10px;
+    font-size: 14px;
+    margin-top: 5px;
 }
 
 nav {
@@ -50,7 +63,7 @@ aside {
 }
 
 .contact-information {
-    margin-top: 350px;
+    margin-top: 450px;
 }
 
 .contact-information h2 {
@@ -259,6 +272,65 @@ main {
     width: 636px;
     height: 245px;
 }
+
+.memberships h2 {
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline #AACE9B;
+    margin-left: 400px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.gray-column {
+    background-color: #d9d9d9;
+}
+
+.gray-column th {
+    padding: 20px;
+    width: 100px;
+    color: #373867;
+    font-weight: bold;
+}
+.gray-column td {
+    padding: 20px;
+    width: 200px;
+    color: #373867;
+    font-weight: bold;
+}
+
+.white-column th {
+    padding: 20px;
+    width: 100px;
+    color: #373867;
+    font-weight: bold;
+}
+.white-column td {
+    padding: 20px;
+    width: 200px;
+    color: #373867;
+    font-weight: bold;
+}
+
+.memberships table {
+    margin-left: 30px;
+    margin-bottom: 80px;
+}
+
+.gray-column img {
+   margin-left: 90px;
+}
+
+.white-column img {
+    margin-left: 90px;
+}
+
+
+
+
+
+
+
 
 
 
