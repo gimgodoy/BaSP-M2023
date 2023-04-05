@@ -104,16 +104,161 @@ main {
    margin-top: 61px;
 }
 
+.features h2 {
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline #AACE9B;
+    margin-left: 400px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
 
+.features article {
+    display: inline-block;
+    width: 500px;
+    margin-left: 30px;
+}
 
+.features h3 {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 24px;
+    margin-left: 15px;
+}
 
+.features p {
+    margin-top: 15px;
+    padding: 10px;
+    margin-left: 45px;
+    width: 330px;
+}
 
+.about-megarocket {
+    margin-left: 12px;
+}
+.about-megarocket h2 {
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline #AACE9B;
+    margin-left: 320px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
 
+.article-1 p  {
+    display: inline-block;
+    width: 500px;
+    vertical-align: top;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
 
+.article-1 img {
+    width: 453px;
+    height: 248px;
+}
 
+.article-2 p  {
+    display: inline-block;
+    width: 500px;
+    vertical-align: top;
+    font-size: 20px;
+    margin-right: 50px;
+    margin-top: 40px;
+}
 
+.article-1 img {
+    width: 453px;
+    height: 248px;
+}
 
+.get-in-touch h2 {
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline #AACE9B;
+    margin-left: 400px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
 
+.form-1 {
+    float: left;
+    width: 400px;
+    margin-left: 15px;
+}
+
+.get-in-touch label {
+    display: block;
+}
+
+.get-in-touch input {
+    border: 1px solid #373867;
+    width: 250px;
+    height: 37px;
+    border-radius: 4px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.button-submit input {
+    width: 100px;
+    height: 37px;
+    border:0px;
+    background-color:#AACE9B;
+    font-weight:bold;
+
+}
+
+.form-2 select {
+    width: 400px;
+    border-radius: 4px;
+    border: 1px solid #373867;
+    color: #373867;
+    height: 37px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.form-2 textarea {
+    width: 400px;
+    height: 180px;
+    border-radius: 4px;
+    border: 1px solid #373867;
+    color: #373867;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    resize: none;
+}
+
+.gym-activities h2 {
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline #AACE9B;
+    margin-left: 400px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.gym-activities ul {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 40px;
+    margin-left: 15px;
+    margin-right: 120px;
+}
+
+.gym-activities li {
+   padding: 7px;
+   font-weight: bold;
+   font-size: 24px;
+   list-style: inside;
+}
+
+.gym-activities img {
+    width: 636px;
+    height: 245px;
+}
 
 
 
