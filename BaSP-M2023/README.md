@@ -13,5 +13,9 @@ Also, I participated in the meetings and read the material sent like the previou
 ## Week 03
 In the course of week 03, we have learned about adding styles using CSS to our html structure. Also, we learning about good practices at the moment to add it. We keep syncing up the progress with our remote repository in Github.
 We have seen corrections on our previous html and fixed them.
+
+## Week 04
+During week 04, we will use flexbox to make the previous css it can be responsive and can to adapt for different screen sizes. We will keep syncing up the progress with our remote repository in Github like the previous week, and we will make the corrections for our css file.
+
 ## Authors
 Gimena Godoy
