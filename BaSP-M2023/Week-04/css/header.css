@@ -1,0 +1,29 @@
+
+header {
+    /*mobile*/
+    background:#373867;
+    top: 0px;
+    width:386px;
+    height:73px;
+}
+
+header img {
+    width:143px;
+    height:33px;
+}
+
+
+@media only screen and (min-width: 391px) {
+    /*desktop*/
+
+    header {
+        background:#373867;
+        top: 0px;
+        z-index: 3;
+        width: 100%;
+    }
+
+    header img {
+        padding: 30px;
+    }
+  }
