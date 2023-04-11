@@ -1,0 +1,289 @@
+/*mobile*/
+
+.main-article h1 {
+    color: #373867;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.main-article h2 {
+    color: #49A37B;
+    font-size: 20px;
+    margin-bottom: 35px;
+    display: flex;
+    justify-content: center;
+}
+
+.main-article img {
+    width: 333px;
+    height: 192px;
+    margin-top: 61px;
+    margin-left: 11px;
+ }
+
+ .main-article article {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+.features h2 {
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline #AACE9B;
+    display: flex;
+    justify-content: center;
+}
+
+.features h3 {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 24px;
+    margin-left: 15px;
+}
+
+@media only screen and (min-width: 391px) {
+    /*desktop*/
+
+    main {
+        margin-top: 105px;
+        margin-left: 310px;
+    }
+
+    .main-article article {
+        display: inline-block;
+        width: 400px;
+        text-align: center;
+        vertical-align: top;
+        margin-top: 140px;
+        margin-right: 50px;
+        margin-left: 12px;
+    }
+
+    .main-article h1 {
+        color: #373867;
+        font-weight: bold;
+        font-size: 40px;
+    }
+
+    .main-article h2 {
+        color: #49A37B;
+        font-size: 20px;
+        margin-bottom: 35px;
+    }
+
+    .main-article img {
+       width: 500px;
+       height: 315px;
+       margin-top: 61px;
+    }
+
+    .features h2 {
+        font-size: 30px;
+        font-weight: bold;
+        text-decoration: underline #AACE9B;
+        margin-left: 400px;
+        margin-bottom: 50px;
+        margin-top: 50px;
+    }
+
+    .features article {
+        display: inline-block;
+        width: 500px;
+        margin-left: 30px;
+    }
+
+    .features h3 {
+        display: inline-block;
+        font-weight: bold;
+        font-size: 24px;
+        margin-left: 15px;
+    }
+
+    .features p {
+        margin-top: 15px;
+        padding: 10px;
+        margin-left: 45px;
+        width: 330px;
+    }
+
+    .about-megarocket {
+        margin-left: 12px;
+    }
+    .about-megarocket h2 {
+        font-size: 30px;
+        font-weight: bold;
+        text-decoration: underline #AACE9B;
+        margin-left: 320px;
+        margin-bottom: 50px;
+        margin-top: 50px;
+    }
+
+    .article-1 p  {
+        display: inline-block;
+        width: 500px;
+        vertical-align: top;
+        font-size: 20px;
+        margin-left: 50px;
+        margin-top: 20px;
+    }
+
+    .article-1 img {
+        width: 453px;
+        height: 248px;
+    }
+
+    .article-2 p  {
+        display: inline-block;
+        width: 500px;
+        vertical-align: top;
+        font-size: 20px;
+        margin-right: 50px;
+        margin-top: 40px;
+    }
+
+    .article-1 img {
+        width: 453px;
+        height: 248px;
+    }
+
+    .get-in-touch h2 {
+        font-size: 30px;
+        font-weight: bold;
+        text-decoration: underline #AACE9B;
+        margin-left: 400px;
+        margin-bottom: 50px;
+        margin-top: 50px;
+    }
+
+    .form-1 {
+        float: left;
+        width: 400px;
+        margin-left: 15px;
+    }
+
+    .get-in-touch label {
+        display: block;
+    }
+
+    .get-in-touch input {
+        border: 1px solid #373867;
+        width: 250px;
+        height: 37px;
+        border-radius: 4px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .button-submit input {
+        width: 100px;
+        height: 37px;
+        border:0px;
+        background-color:#AACE9B;
+        font-weight:bold;
+
+    }
+
+    .form-2 select {
+        width: 400px;
+        border-radius: 4px;
+        border: 1px solid #373867;
+        color: #373867;
+        height: 37px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .form-2 textarea {
+        width: 400px;
+        height: 180px;
+        border-radius: 4px;
+        border: 1px solid #373867;
+        color: #373867;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        resize: none;
+    }
+
+    .gym-activities h2 {
+        font-size: 30px;
+        font-weight: bold;
+        text-decoration: underline #AACE9B;
+        margin-left: 400px;
+        margin-bottom: 50px;
+        margin-top: 50px;
+    }
+
+    .gym-activities ul {
+        display: inline-block;
+        vertical-align: top;
+        margin-top: 40px;
+        margin-left: 15px;
+        margin-right: 120px;
+    }
+
+    .gym-activities li {
+       padding: 7px;
+       font-weight: bold;
+       font-size: 24px;
+       list-style: inside;
+    }
+
+    .gym-activities img {
+        width: 636px;
+        height: 245px;
+    }
+
+    .memberships h2 {
+        font-size: 30px;
+        font-weight: bold;
+        text-decoration: underline #AACE9B;
+        margin-left: 400px;
+        margin-bottom: 50px;
+        margin-top: 50px;
+    }
+
+    .gray-column {
+        background-color: #d9d9d9;
+    }
+
+    .gray-column th {
+        padding: 20px;
+        width: 100px;
+        color: #373867;
+        font-weight: bold;
+    }
+    .gray-column td {
+        padding: 20px;
+        width: 200px;
+        color: #373867;
+        font-weight: bold;
+    }
+
+    .white-column th {
+        padding: 20px;
+        width: 100px;
+        color: #373867;
+        font-weight: bold;
+    }
+    .white-column td {
+        padding: 20px;
+        width: 200px;
+        color: #373867;
+        font-weight: bold;
+    }
+
+    .memberships table {
+        margin-left: 30px;
+        margin-bottom: 80px;
+    }
+
+    .gray-column img {
+       margin-left: 90px;
+    }
+
+    .white-column img {
+        margin-left: 90px;
+    }
+  }
